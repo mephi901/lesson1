@@ -21,7 +21,7 @@ public class Lesson1 {
 
        System.out.println("Hello, World!");
        System.out.println("BAKDOOLOT S DNEM ROJDENIA");
-
+       System.out.println("Че происходит?");
     }
     
 }
