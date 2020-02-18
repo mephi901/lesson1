@@ -15,6 +15,10 @@ public class Lesson1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
+       NewJFrame frame = new NewJFrame();
+       frame.setVisible(true);
+
        System.out.println("Hello, World!");
        System.out.println("BAKDOOLOT S DNEM ROJDENIA");
        System.out.println("Че происходит?");
